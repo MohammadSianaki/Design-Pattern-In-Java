@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d14d9621-1b93-48c5-a0a1-692412e28835" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/composite/composite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator/decorator.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -19,78 +19,85 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composite/src/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composite/src/Developer.java">
+        <entry file="file://$PROJECT_DIR$/decorator/src/Coffee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="31" />
-              <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-              </folding>
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composite/src/Designer.java">
+        <entry file="file://$PROJECT_DIR$/decorator/src/SimpleCoffee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+            <state relative-caret-position="240">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding>
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#81#82#0" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composite/src/Organization.java">
+        <entry file="file://$PROJECT_DIR$/decorator/src/MilkCoffee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/decorator/src/WhipCoffee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/decorator/src/VanillaCoffee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/composite/src/Test.java">
+        <entry file="file://$PROJECT_DIR$/decorator/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+            <state relative-caret-position="510">
+              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -112,11 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/simple-factory/src/Door.java" />
-        <option value="$PROJECT_DIR$/simple-factory/src/WoodenDoor.java" />
-        <option value="$PROJECT_DIR$/simple-factory/src/DoorFactory.java" />
-        <option value="$PROJECT_DIR$/simple-factory/src/Test.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/factory-method/src/Interviewer.java" />
         <option value="$PROJECT_DIR$/factory-method/src/Developer.java" />
         <option value="$PROJECT_DIR$/factory-method/src/CommunityExecutive.java" />
@@ -158,8 +160,16 @@
         <option value="$PROJECT_DIR$/composite/src/Employee.java" />
         <option value="$PROJECT_DIR$/composite/src/Developer.java" />
         <option value="$PROJECT_DIR$/composite/src/Designer.java" />
-        <option value="$PROJECT_DIR$/composite/src/Organization.java" />
         <option value="$PROJECT_DIR$/composite/src/Test.java" />
+        <option value="$PROJECT_DIR$/composite/src/Organization.java" />
+        <option value="$PROJECT_DIR$/decorator/src/Coffee.java" />
+        <option value="$PROJECT_DIR$/decorator/src/SimpleCoffee.java" />
+        <option value="$PROJECT_DIR$/decorator/src/MilfCoffee.java" />
+        <option value="$PROJECT_DIR$/decorator/src/MilkCoffee.java" />
+        <option value="$PROJECT_DIR$/decorator/src/WheepCoffee.java" />
+        <option value="$PROJECT_DIR$/decorator/src/WhipCoffee.java" />
+        <option value="$PROJECT_DIR$/decorator/src/VanillaCoffee.java" />
+        <option value="$PROJECT_DIR$/decorator/src/Test.java" />
       </list>
     </option>
   </component>
@@ -189,13 +199,7 @@
             <path>
               <item name="Design-Patterns-In-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Patterns-In-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design-Patterns-In-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design-Patterns-In-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,11 +208,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/bridge/src/AboutWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/IronDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/LightTheme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/WebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/CommunityExecutive.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Designer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/simple-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Employee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDog.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/singleton/src/President.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDogAdapter.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/ProjectsWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFittingExpert.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/HiringManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/MarketingManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/WoodenDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Organization.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Interviewer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Theme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Burger.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Sheep.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Test.java" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/bridge/src/AboutWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/IronDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/LightTheme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/WebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/CommunityExecutive.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Designer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/simple-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Employee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Coffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDog.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/singleton/src/President.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/VanillaCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/MilkCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDogAdapter.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/ProjectsWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/SimpleCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFittingExpert.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/WhipCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/HiringManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/MarketingManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/WoodenDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Organization.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Interviewer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Theme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Burger.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Sheep.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Test.java" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/Software/FullSDK/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549310972219" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549311550364" />
     <property name="last_opened_file_path" value="D:/Private/Work" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -231,17 +235,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (5)">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="simple-factory" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -273,6 +269,14 @@
     <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="composite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="decorator" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -310,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +339,7 @@
     <frame x="0" y="0" width="1920" height="1035" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -346,7 +350,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,60 +397,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/simple-factory/src/DoorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory-method/src/Interviewer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory-method/src/HiringManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory-method/src/CommunityExecutive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory-method/src/Developer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/factory-method/src/DevelopmentManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -856,6 +806,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/composite/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composite/src/Organization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/composite/src/Designer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
@@ -877,21 +846,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composite/src/Organization.java">
+    <entry file="file://$PROJECT_DIR$/decorator/src/Coffee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator/src/SimpleCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composite/src/Test.java">
+    <entry file="file://$PROJECT_DIR$/decorator/src/MilkCoffee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+        <state relative-caret-position="450">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator/src/WhipCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator/src/VanillaCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
         </state>
       </provider>
     </entry>
