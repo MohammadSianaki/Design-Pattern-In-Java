@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/factory-method/factory-method.iml" filepath="$PROJECT_DIR$/factory-method/factory-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype/prototype.iml" filepath="$PROJECT_DIR$/prototype/prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-factory/simple-factory.iml" filepath="$PROJECT_DIR$/simple-factory/simple-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
     </modules>
   </component>
 </project>
