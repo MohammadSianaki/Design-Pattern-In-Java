@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d14d9621-1b93-48c5-a0a1-692412e28835" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/facade/facade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flyweight/flyweight.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -19,38 +19,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/facade/src/Computer.java">
+        <entry file="file://$PROJECT_DIR$/flyweight/src/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+            <state relative-caret-position="30">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flyweight/src/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="24" column="116" selection-start-line="24" selection-start-column="116" selection-end-line="24" selection-end-column="116" />
               <folding>
-                <element signature="e#56#57#0" expanded="true" />
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/facade/src/ComputerFacade.java">
+        <entry file="file://$PROJECT_DIR$/flyweight/src/ShapeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-              <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="420">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/facade/src/Test.java">
+        <entry file="file://$PROJECT_DIR$/flyweight/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="330">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,10 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/factory-method/src/HiringManager.java" />
-        <option value="$PROJECT_DIR$/factory-method/src/DevelopmentManager.java" />
-        <option value="$PROJECT_DIR$/factory-method/src/Test.java" />
-        <option value="$PROJECT_DIR$/factory-method/src/MarketingManager.java" />
         <option value="$PROJECT_DIR$/absract-factory/src/Door.java" />
         <option value="$PROJECT_DIR$/absract-factory/src/WoodenDoor.java" />
         <option value="$PROJECT_DIR$/absract-factory/src/IronDoor.java" />
@@ -131,6 +144,10 @@
         <option value="$PROJECT_DIR$/facade/src/Computer.java" />
         <option value="$PROJECT_DIR$/facade/src/ComputerFacade.java" />
         <option value="$PROJECT_DIR$/facade/src/Test.java" />
+        <option value="$PROJECT_DIR$/flyweight/src/Shape.java" />
+        <option value="$PROJECT_DIR$/flyweight/src/Circle.java" />
+        <option value="$PROJECT_DIR$/flyweight/src/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/flyweight/src/Test.java" />
       </list>
     </option>
   </component>
@@ -157,16 +174,6 @@
               <item name="Design-Patterns-In-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Patterns-In-Java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Design-Patterns-In-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design-Patterns-In-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design-Patterns-In-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design-Patterns-In-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="facade" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -174,11 +181,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/bridge/src/AboutWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/IronDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/LightTheme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/WebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/CommunityExecutive.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Designer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/simple-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Employee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Coffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDog.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/singleton/src/President.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Computer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/VanillaCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/MilkCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/ComputerFacade.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDogAdapter.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/ProjectsWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/SimpleCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFittingExpert.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/WhipCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/HiringManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/MarketingManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/WoodenDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Organization.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Interviewer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Theme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Burger.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Sheep.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Test.java" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/bridge/src/AboutWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/IronDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/LightTheme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/WebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/CommunityExecutive.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Designer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Shape.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/simple-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/ShapeFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Employee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Coffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDog.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/singleton/src/President.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Computer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/VanillaCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Circle.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/MilkCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/ComputerFacade.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDogAdapter.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/ProjectsWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/SimpleCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFittingExpert.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/WhipCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/HiringManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/MarketingManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/WoodenDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Organization.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Interviewer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Theme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Burger.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Sheep.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Test.java" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/Software/FullSDK/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549312034243" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549313157319" />
     <property name="last_opened_file_path" value="D:/Private/Work" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -303,7 +310,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1035" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -363,42 +369,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/abstract-factory/src/Door.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abstract-factory/src/WoodenDoor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abstract-factory/src/IronDoor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-          <folding>
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abstract-factory/src/DoorFittingExpert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/abstract-factory/src/Welder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -879,6 +849,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flyweight/src/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flyweight/src/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="24" column="116" selection-start-line="24" selection-start-column="116" selection-end-line="24" selection-end-column="116" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flyweight/src/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flyweight/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
