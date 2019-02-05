@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d14d9621-1b93-48c5-a0a1-692412e28835" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/observer/observer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chain-of-responsibility/chain-of-responsibility.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -19,56 +19,71 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer/src/Subject.java">
+        <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/RequestHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            <state relative-caret-position="90">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer/src/TopicSubscriber.java">
+        <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/RequestData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="1020">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
               <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#587#588#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/DBDataHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/FileDataHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/CloudDataHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/observer/src/ObserverPatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/CORDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer/src/Observer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/observer/src/Topic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="450">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,16 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/absract-factory/src/Test.java" />
-        <option value="$PROJECT_DIR$/builder/src/Burger.java" />
-        <option value="$PROJECT_DIR$/builder/src/Test.java" />
-        <option value="$PROJECT_DIR$/prototype/src/Sheep.java" />
-        <option value="$PROJECT_DIR$/prototype/src/Test.java" />
-        <option value="$PROJECT_DIR$/singleton/src/Singleton.java" />
-        <option value="$PROJECT_DIR$/singleton/src/President.java" />
-        <option value="$PROJECT_DIR$/adapter/src/Lion.java" />
-        <option value="$PROJECT_DIR$/adapter/src/AfricainLion.java" />
-        <option value="$PROJECT_DIR$/adapter/src/AfricanLion.java" />
         <option value="$PROJECT_DIR$/adapter/src/AsianLion.java" />
         <option value="$PROJECT_DIR$/adapter/src/Hunter.java" />
         <option value="$PROJECT_DIR$/adapter/src/WildDog.java" />
@@ -150,6 +155,16 @@
         <option value="$PROJECT_DIR$/observer/src/TopicSubscriber.java" />
         <option value="$PROJECT_DIR$/observer/src/Topic.java" />
         <option value="$PROJECT_DIR$/observer/src/ObserverPatternDemo.java" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility/src/Account.java" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility/src/Paypal.java" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility/src/PayPal.java" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility/src/Bank.java" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility/src/RequestHandler.java" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility/src/RequestData.java" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility/src/DBDataHandler.java" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility/src/FileDataHandler.java" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility/src/CloudDataHandler.java" />
+        <option value="$PROJECT_DIR$/chain-of-responsibility/src/CORDemo.java" />
       </list>
     </option>
   </component>
@@ -167,8 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,12 +192,12 @@
             <path>
               <item name="Design-Patterns-In-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Patterns-In-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
+              <item name="chain-of-responsibility" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Design-Patterns-In-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Patterns-In-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
+              <item name="chain-of-responsibility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -196,14 +209,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/composite/src/Designer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Shape.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/simple-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Coffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDog.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/singleton/src/President.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/VanillaCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Circle.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/MilkCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/ComputerFacade.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDogAdapter.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/ProjectsWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/SimpleCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFittingExpert.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/WhipCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/MarketingManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/WoodenDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Burger.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Sheep.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/Topic.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/AboutWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/IronDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/LightTheme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/WebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/CommunityExecutive.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/SecuredDoor.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/ShapeFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/ObserverPatternDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Employee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Computer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/LabDoor.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/HiringManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Organization.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Interviewer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Theme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/Observer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Test.java" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/chain-of-responsibility/src/PayPal.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/CORDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Designer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Shape.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/simple-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Coffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDog.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/singleton/src/President.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/VanillaCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Circle.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/MilkCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/Account.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/ComputerFacade.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDogAdapter.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/ProjectsWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/SimpleCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFittingExpert.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/WhipCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/MarketingManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/WoodenDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Burger.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Sheep.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/Topic.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/AboutWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/IronDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/LightTheme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/DBDataHandler.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/WebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/CommunityExecutive.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/SecuredDoor.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/ShapeFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/ObserverPatternDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Employee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Computer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/LabDoor.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/RequestData.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/HiringManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Organization.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Interviewer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Theme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/Observer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Test.java" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/Software/FullSDK/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549317925231" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549386044136" />
     <property name="last_opened_file_path" value="D:/Private/Work" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -226,9 +241,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObserverPatternDemo">
+  <component name="RunManager" selected="Application.CORDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CORDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CORDemo" />
+      <module name="chain-of-responsibility" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -252,14 +275,6 @@
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="proxy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="composite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -305,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CORDemo" />
         <item itemvalue="Application.ObserverPatternDemo" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -337,8 +352,6 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
@@ -349,8 +362,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3309091" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
-      <window_info anchor="right" id="Redis Servers" />
-      <window_info anchor="right" id="Mongo Explorer" weight="0.3295699" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -359,6 +372,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Redis Servers" order="8" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" weight="0.3295699" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -386,101 +401,22 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="857" column="27" selection-start-line="857" selection-start-column="27" selection-end-line="857" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="150" column="32" selection-start-line="150" selection-start-column="32" selection-end-line="150" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/builder/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/builder/src/Burger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-836">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
-            <element signature="e#1287#1288#0" expanded="true" />
-            <element signature="e#1455#1456#0" expanded="true" />
-            <element signature="e#1482#1483#0" expanded="true" />
-            <element signature="e#1515#1516#0" expanded="true" />
-            <element signature="e#1544#1545#0" expanded="true" />
-            <element signature="e#1580#1581#0" expanded="true" />
-            <element signature="e#1612#1613#0" expanded="true" />
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1676#1677#0" expanded="true" />
-            <element signature="e#1709#1710#0" expanded="true" />
-            <element signature="e#1738#1739#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-jdk/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prototype/src/Sheep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton/src/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prototype/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton/src/President.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adapter/src/Lion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/adapter/src/AfricanLion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -732,9 +668,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/decorator/src/facade.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator/src/facade.java" />
     <entry file="file://$PROJECT_DIR$/decorator/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -874,13 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/observer/src/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/observer/src/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -890,33 +817,128 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/observer/src/TopicSubscriber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
+        <state relative-caret-position="510">
           <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
             <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/observer/src/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/observer/src/Topic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="240">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/observer/src/ObserverPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        <state relative-caret-position="480">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/Bitcoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/PayPal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/RequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/RequestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/DBDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/FileDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/CloudDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chain-of-responsibility/src/CORDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
