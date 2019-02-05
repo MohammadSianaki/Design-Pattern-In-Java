@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d14d9621-1b93-48c5-a0a1-692412e28835" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mediator/mediator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memento/memento.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -18,44 +18,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mediator/src/ChatRoomMediator.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/memento/src/EditorMemento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mediator/src/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
               <folding>
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mediator/src/ChatRoom.java">
+        <entry file="file://$PROJECT_DIR$/memento/src/Editor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            <state relative-caret-position="30">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mediator/src/MediatorDemo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/memento/src/MementoDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="420">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -88,9 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/decorator/src/Coffee.java" />
-        <option value="$PROJECT_DIR$/decorator/src/SimpleCoffee.java" />
-        <option value="$PROJECT_DIR$/decorator/src/MilfCoffee.java" />
         <option value="$PROJECT_DIR$/decorator/src/MilkCoffee.java" />
         <option value="$PROJECT_DIR$/decorator/src/WheepCoffee.java" />
         <option value="$PROJECT_DIR$/decorator/src/WhipCoffee.java" />
@@ -139,6 +137,9 @@
         <option value="$PROJECT_DIR$/mediator/src/User.java" />
         <option value="$PROJECT_DIR$/mediator/src/ChatRoom.java" />
         <option value="$PROJECT_DIR$/mediator/src/MediatorDemo.java" />
+        <option value="$PROJECT_DIR$/memento/src/MementoDemo.java" />
+        <option value="$PROJECT_DIR$/memento/src/Editor.java" />
+        <option value="$PROJECT_DIR$/memento/src/EditorMemento.java" />
       </list>
     </option>
   </component>
@@ -166,7 +167,7 @@
             <path>
               <item name="Design-Patterns-In-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Patterns-In-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="mediator" type="462c0819:PsiDirectoryNode" />
+              <item name="memento" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Design-Patterns-In-Java" type="b2602c69:ProjectViewProjectNode" />
@@ -182,11 +183,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/chain-of-responsibility/src/PayPal.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/CORDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Designer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Shape.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/simple-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Coffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDog.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/iterator/src/ChannelCollection.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/singleton/src/President.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/VanillaCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Circle.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/MilkCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/Account.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/ComputerFacade.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDogAdapter.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/ProjectsWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/iterator/src/ChannelCollectionImpl.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/SimpleCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFittingExpert.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/WhipCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/MarketingManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/WoodenDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/command/src/Light.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Burger.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Sheep.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/Topic.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/AboutWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/IronDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/LightTheme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/DBDataHandler.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/WebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/CommunityExecutive.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/SecuredDoor.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/ShapeFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/ObserverPatternDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Employee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/mediator/src/ChatRoom.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/command/src/Command.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Computer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/mediator/src/User.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/iterator/src/ChannelIterator.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/LabDoor.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/iterator/src/Channel.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/RequestData.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/command/src/Client.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/HiringManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Organization.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Interviewer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Theme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/Observer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/iterator/src/IteratorPatternDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Test.java" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/chain-of-responsibility/src/PayPal.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/CORDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Designer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Shape.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/simple-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Coffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/memento/src/Editor.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDog.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/iterator/src/ChannelCollection.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/singleton/src/President.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/VanillaCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Circle.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/MilkCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Developer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/Account.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/ComputerFacade.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/adapter/src/WildDogAdapter.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/ProjectsWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/Door.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/iterator/src/ChannelCollectionImpl.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/SimpleCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFittingExpert.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/WhipCoffee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/MarketingManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/WoodenDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/command/src/Light.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/memento/src/EditorMemento.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/decorator/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/builder/src/Burger.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/prototype/src/Sheep.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/Topic.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/AboutWebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/IronDoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/LightTheme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/DBDataHandler.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/WebPage.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/CommunityExecutive.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/SecuredDoor.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/ShapeFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/ObserverPatternDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Employee.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/mediator/src/ChatRoom.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/command/src/Command.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Computer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/mediator/src/User.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/iterator/src/ChannelIterator.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/proxy/src/LabDoor.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/mediator/src/MediatorDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/iterator/src/Channel.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/flyweight/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/chain-of-responsibility/src/RequestData.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/memento/src/MementoDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/command/src/Client.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/HiringManager.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/composite/src/Organization.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Interviewer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/facade/src/Test.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/bridge/src/Theme.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/absract-factory/src/DoorFactory.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/observer/src/Observer.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/iterator/src/IteratorPatternDemo.java&#10;/home/mohammad/IdeaProjects/Design-Patterns-In-Java/factory-method/src/Test.java" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/Software/FullSDK/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549397344386" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549397902488" />
     <property name="last_opened_file_path" value="D:/Private/Work" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -209,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MediatorDemo">
+  <component name="RunManager" selected="Application.MementoDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -248,9 +249,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObserverPatternDemo" />
-      <module name="observer" />
+    <configuration name="MementoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MementoDemo" />
+      <module name="memento" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -288,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MementoDemo" />
         <item itemvalue="Application.MediatorDemo" />
         <item itemvalue="Application.IteratorPatternDemo" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.CORDemo" />
-        <item itemvalue="Application.ObserverPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -313,8 +314,8 @@
     <frame x="0" y="0" width="1920" height="1035" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4972875" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" sideWeight="0.5027125" side_tool="true" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49818182" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5018182" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -385,47 +386,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composite/src/Designer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
-          <folding>
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#760#761#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorator/src/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorator/src/SimpleCoffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/decorator/src/MilkCoffee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -871,7 +831,7 @@
     <entry file="file://$PROJECT_DIR$/mediator/src/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
             <element signature="e#231#232#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
@@ -892,6 +852,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memento/src/Editor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memento/src/MementoDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memento/src/EditorMemento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
