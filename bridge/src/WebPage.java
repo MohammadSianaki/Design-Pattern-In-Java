@@ -1,0 +1,5 @@
+interface WebPage {
+
+    String getContent();
+
+}

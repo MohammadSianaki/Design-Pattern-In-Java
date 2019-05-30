@@ -1,0 +1,3 @@
+interface DoorFittingExpert {
+    void getDescription();
+}

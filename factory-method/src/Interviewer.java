@@ -1,0 +1,3 @@
+interface Interviewer {
+    void askQuestion();
+}

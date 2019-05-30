@@ -1,0 +1,3 @@
+interface Lion {
+    void roar();
+}

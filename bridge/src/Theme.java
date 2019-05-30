@@ -1,0 +1,3 @@
+interface Theme {
+    String getColor();
+}
